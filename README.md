@@ -7,7 +7,7 @@
 ```
 Certified Project Manager · Cloud Enthusiast
 Houston, TX  |  PMP · PSM I · AWS CCP
-BS Cloud & Network Engineering @ WGU
+BS Cloud & Network Engineering (In-progress)
 ```
 
 ---
@@ -100,7 +100,6 @@ Organizations processing high volumes of intake documents face a persistent bott
 ## `> contact --open`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deontet-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/deontet)
-[![Email](https://img.shields.io/badge/Email-1deonte.thompson%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:1deonte.thompson@gmail.com)
 
 ---
 
