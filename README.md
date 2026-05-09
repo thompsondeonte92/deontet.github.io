@@ -58,7 +58,8 @@ I built this platform with a specific goal in mind. High volume document process
 
 **Architecture Overview**
 
-![AWS Serverless Intake Automation Platform](./AWS_Serverless_Intake_Diagram.jpg)
+![AWS Serverless Intake Automation Platform](AWS_Serverless_Intake_Diagram.jpg)
+
 
 **AWS Services Used**
 
