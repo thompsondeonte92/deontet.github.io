@@ -49,7 +49,7 @@ What makes this interesting is the combination of skill, passion, and natural al
 
 ---
 
-## What I Bring
+## What I Bring to the table 
 
 <div align="center">
 
@@ -64,7 +64,7 @@ PMP certified. Stakeholder alignment, risk management, and structured delivery a
 </td>
 <td align="center" width="33%">
 <br>
-<strong>Cloud</strong><br>
+<strong>Cloud Familiarity</strong><br>
 <sub>AWS Architecture</sub><br><br>
 Serverless, event-driven systems. Hands-on deployed infrastructure built from the ground up.
 <br><br>
@@ -83,7 +83,7 @@ Team leadership, process design, and cross-functional execution in complex organ
 
 ---
 
-## What I'm Currently Building
+## Most Recent Project
 
 ### ⬡ AWS Serverless Intake Automation Platform
 
