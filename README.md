@@ -41,7 +41,7 @@
 
 ## Project Professional. Cloud Architecture & Technical Delivery.
 
-I'm a PMP-certified program and project professional growing deeper into cloud infrastructure, technical delivery, and solutions architecture. I'm building real fluency through hands-on AWS implementation — actual deployed systems that solve real operational problems.
+I'm a PMP-certified program and project professional growing deeper into cloud infrastructure, technical delivery, and solutions architecture. I'm developing real fluency through hands-on AWS system implementations that could solve real operational problems.
 
 My background is in administration, leadership, and project management. I know how to run operations, lead teams, manage stakeholders across organizational layers, and bring structure to environments that are still finding their footing. Over time, I found myself paying closer attention to the infrastructure and systems behind the work I was involved in: the way things were architected, where the bottlenecks actually lived, and what it would take to build something better. **That curiosity turned into purpose.**
 
