@@ -58,7 +58,7 @@ I built this platform with a specific goal in mind. High volume document process
 
 **Architecture Overview**
 
- ![AWS Serverless Intake Automation Platform](https://deontet1.github.io/AWS_Serverless_Intake_Diagram.jpg)
+![AWS Serverless Intake Automation Platform](https://github.com/user-attachments/assets/bd65881e-4bbd-4f6b-a900-4654c91ecfd0)
 
 
 **AWS Services Used**
