@@ -58,7 +58,7 @@ What makes this interesting is the combination of skill, passion, and natural al
 <td align="center" width="33%">
 <br>
 <strong>Delivery</strong><br>
-<sub>Program Management</sub><br><br>
+<sub>Project & Program Management</sub><br><br>
 PMP certified. Stakeholder alignment, risk management, and structured delivery across complex environments.
 <br><br>
 </td>
