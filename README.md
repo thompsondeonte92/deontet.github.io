@@ -114,7 +114,7 @@ A fully serverless, event-driven system on AWS Free Tier that automates document
 - Structured CloudWatch monitoring for operational visibility
 - End-to-end AWS service integration built from the ground up
 
-> I handpicked this project to force a shift in how I think. From managing work around systems to actually designing them. Building it meant confronting real architectural decisions vs just learning about them.
+> I created this project to force a shift in how I view projects. My interests has gone from managing work around systems to actually designing them. 
 
 ---
 
@@ -136,9 +136,9 @@ A fully serverless, event-driven system on AWS Free Tier that automates document
 
 ## Where I'm Heading
 
-My focus is on roles where delivery leadership and technical depth work together, not separately. That's where I'm investing my time and that's where this work is pointing.
+I am pursuing roles where delivery, leadership and technical depth align. 
 
-My near-term focus is expanding my AWS depth, exploring infrastructure-as-code, and building out more hands-on architecture projects. Each one teaches me something the classroom doesn't.
+My current focus is expanding my AWS depth, exploring infrastructure-as-code, and building out more hands-on architecture projects. As a visual and hands on learner each projects teaches me something the classroom doesn't.
 
 ---
 
