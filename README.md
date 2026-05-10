@@ -13,7 +13,7 @@ Welcome to my GitHub!  Follow my journey to building technical depth in cloud in
 ### ⬡ AWS Serverless Intake Automation Platform
 
 <a href="https://deontet1.github.io/aws-serverless-intake-automation/" target="_blank">
-  <img src="https://img.shields.io/badge/ViewMyProject%20Page-View%20Writeup-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="View Project Page"/>
+  <img src="https://img.shields.io/badge/View My Project%20Page-View%20Writeup-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="View Project Page"/>
 </a>
 
 A fully serverless, event-driven system on AWS Free Tier that automates document ingestion, OCR extraction, and downstream routing. Built to understand what solving high-volume document processing at the infrastructure level actually requires.
