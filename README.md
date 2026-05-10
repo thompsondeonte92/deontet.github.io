@@ -11,12 +11,10 @@
 Welcome to my github! I’m a certified project manager and cloud and networking engineering student with a passion for solving problems and delivering practical solutions for teams and clients. As I transition into tech full time, I’m using this GitHub to document my hands‑on work and my growth as a technical professional. I’m open to opportunities in cloud engineering, technical program management, and project management! I’m open to connecting with recruiters and cloud professionals so if you have any insight, opportunities, or advice to share, feel free to reach out via LinkedIn.  
 https://www.linkedin.com/in/deontet/
 
-My background is in administration, leadership, and project management. I know how to run operations, lead teams, manage stakeholders across organizational layers, and bring structure to environments that are still finding their footing. Over time, I found myself paying closer attention to what's been going on in tech specifically in cloud, infrastructure and AI systems. **That curiosity has now turned into purpose.**
-
 ---
 
 ## What I Bring to the Table
-
+My background is in administration, leadership, and project management.  I know how lead operations, support teams and align with key stakeholders all while bringing clarity and structure in business environments. 
 <div align="center">
 
 | | | |
