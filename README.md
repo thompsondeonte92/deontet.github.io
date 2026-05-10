@@ -6,15 +6,13 @@
 
 <br>
 
----
-
 ## Project Professional. Cloud Architecture & Technical Delivery.
 
 Welcome to my GitHub! I'm a certified project manager and cloud and networking engineering student with a passion for solving problems and delivering practical solutions for teams and clients. As I transition into tech full time, I'm using this GitHub to document my hands-on work and my growth as a technical professional.
 
-I'm open to opportunities in cloud engineering, technical program management, and project management. If you have insight, opportunities, or advice to share — feel free to reach out via LinkedIn.
+I'm open to opportunities in cloud engineering, technical program management, and project management. If you have insight, opportunities, or advice to share — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/deontet/).
 
----
+<br>
 
 ## What I Bring to the Table
 
@@ -28,7 +26,7 @@ My background is in administration, leadership, and project management. I know h
 | *Project & Program Management* | *AWS Architecture* | *Operational Design* |
 | PMP certified. Stakeholder alignment, risk management, and structured delivery across complex environments. | Serverless, event-driven systems. Hands-on deployed infrastructure built from the ground up. | Team leadership, process design, and cross-functional execution in complex organizations. |
 
----
+<br>
 
 ## Most Recent Project
 
@@ -66,7 +64,7 @@ A fully serverless, event-driven system on AWS Free Tier that automates document
 
 > I created this project to force a shift in how I view projects. My interest has gone from managing work around systems to actually designing them.
 
----
+<br>
 
 ## Skills & Focus Areas
 
@@ -82,7 +80,7 @@ A fully serverless, event-driven system on AWS Free Tier that automates document
 **Growing Into**
 `Cloud TPM` `Solutions Architecture` `Implementation Consulting` `Technical Program Management` `Cloud Modernization`
 
----
+<br>
 
 ## Where I'm Heading
 
@@ -90,16 +88,18 @@ I am pursuing roles where delivery, leadership, and technical depth align.
 
 My current focus is expanding my AWS knowledge, exploring infrastructure-as-code, and building out more hands-on architecture projects. As a visual and hands-on learner, each project teaches me something the classroom doesn't.
 
----
+<br>
 
 ## Let's Connect
 
-I'm always open to a good conversation — whether you're a recruiter exploring fit, a cloud professional who wants to swap notes, a technical leader with advice to share, or someone curious about the trajectory I'm building.
+I'm always open to a good conversation — whether you're a recruiter exploring fit, a cloud professional who wants to swap notes, a technical leader with advice to share, or someone curious about the trajectory I'm building. Reach out directly on [LinkedIn](https://www.linkedin.com/in/deontet/).
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deonte%20Thompson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deontet/)
 [![AWS Project](https://img.shields.io/badge/AWS%20Project-Serverless%20Intake%20Platform-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/deontet1/aws-serverless-intake-automation)
 
----
+<br>
 
 <div align="center">
 <sub>Built with curiosity, deployed with intention. Always learning.</sub>
