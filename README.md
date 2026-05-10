@@ -86,7 +86,8 @@ Team leadership, process design, and cross-functional execution in complex organ
 ## Most Recent Project
 
 ### ⬡ AWS Serverless Intake Automation Platform
-
+[![View Project](https://img.shields.io/badge/View%20Project-Live%20Demo-185FA5?style=flat-square&logo=amazonaws&logoColor=white)](https://deontet1.github.io/aws-serverless-intake-automation/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-444441?style=flat-square&logo=github&logoColor=white)](https://github.com/deontet1/aws-serverless-intake-automation)
 A fully serverless, event-driven system on AWS Free Tier that automates document ingestion, OCR extraction, and downstream routing. Built to understand what solving high-volume document processing at the infrastructure level actually requires.
 
 **Architecture Overview**
