@@ -6,7 +6,7 @@
 
 ## Project Professional. Cloud Architecture & Technical Delivery.
 
-Welcome to my GitHub!  Follow my journey to building technical depth in cloud infrastructure and solutions architecture. Open to cloud engineering, technical PM, and implementation roles. I welcome any feedback and leads on cloud opportunities and can be contacted at [LinkedIn](https://www.linkedin.com/in/deontet/)
+Welcome to my GitHub!  Follow my journey to building technical depth in cloud infrastructure and solutions architecture. Open to cloud engineering, technical PM, and implementation roles. I welcome any feedback and leads on cloud opportunities and can be via [LinkedIn](https://www.linkedin.com/in/deontet/)
 
 | **🔹 Delivery** | **☁️ Cloud Engineering** | **🔹 Leadership** |
 |:---:|:---:|:---:|
