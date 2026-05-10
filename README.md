@@ -8,7 +8,7 @@
 
 ## Project Professional. Cloud Architecture & Technical Delivery.
 
-Welcome to my GitHub! I'm a certified project manager and cloud and networking engineering student with a passion for solving problems and delivering practical solutions for teams and clients. As I transition into tech full time, I'm using this GitHub to document my hands-on work and my growth as a technical professional.
+I'm a PMP-certified delivery professional building technical depth in cloud infrastructure and solutions architecture. I combine operational leadership with hands-on AWS implementation, currently focused on serverless systems, event-driven architecture, and cloud-native design.
 
 I'm open to opportunities in cloud engineering, technical program management, and project management. If you have insight, opportunities, or advice to share, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/deontet/).
 
@@ -20,9 +20,8 @@ My background is in administration, leadership, and project management. I know h
 
 <br>
 
-| | | |
+| **🔹 Delivery** | **☁️ Cloud Engineering** | **🔹 Leadership** |
 |:---:|:---:|:---:|
-| **🔹 Delivery** | **☁️ Cloud Familiarity** | **🔹 Leadership** |
 | *Project & Program Management* | *AWS Architecture* | *Operational Design* |
 | PMP certified. Stakeholder alignment, risk management, and structured delivery across complex environments. | Serverless, event-driven systems. Hands-on deployed infrastructure built from the ground up. | Team leadership, process design, and cross-functional execution in complex organizations. |
 
@@ -33,19 +32,23 @@ My background is in administration, leadership, and project management. I know h
 ### ⬡ AWS Serverless Intake Automation Platform
 
 <a href="https://deontet1.github.io/aws-serverless-intake-automation/" target="_blank">
-  <img src="https://img.shields.io/badge/Source%20Code-View%20Project-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a> 
+  <img src="https://img.shields.io/badge/Project%20Page-View%20Writeup-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="View Project Page"/>
+</a>
 
-A fully serverless, event-driven system on AWS Free Tier that automates document ingestion, OCR extraction, and system routing. Built to understand what solving high-volume document processing at the infrastructure level actually requires.
+A fully serverless, event-driven system on AWS Free Tier that automates document ingestion, OCR extraction, and downstream routing. Built to understand what solving high-volume document processing at the infrastructure level actually requires.
 
 **Architecture Overview**
 
 ![AWS Serverless Intake Automation Platform](https://github.com/user-attachments/assets/bd65881e-4bbd-4f6b-a900-4654c91ecfd0)
 
+**Why It's Built This Way**
+
+Nothing in this pipeline polls or waits. Every component reacts to an event: S3 triggers Lambda, Textract notifies SNS, SNS triggers the second Lambda. This keeps the architecture decoupled, cost near-zero at idle, and ready to scale to high document volumes without managing any infrastructure.
+
 **AWS Services Used**
 
 | Service | Role |
-|---|---|
+| :--- | :--- |
 | **S3** | Document ingestion and secure storage |
 | **Lambda** | Event-driven processing logic |
 | **Textract** | OCR and intelligent document extraction |
@@ -53,15 +56,10 @@ A fully serverless, event-driven system on AWS Free Tier that automates document
 | **DynamoDB** | NoSQL storage for extracted document data |
 | **CloudWatch** | Structured monitoring, alerting, and observability |
 | **IAM** | Least-privilege access control across all services |
-| **KMS** | Encryption at rest for sensitive document content |
 
 **What This Project Demonstrates**
 
-- Fully serverless, event-driven architecture with no persistent compute
-- Async processing workflows that decouple ingestion from downstream logic
-- HIPAA-aligned design considerations including encryption and least-privilege IAM
-- Structured CloudWatch monitoring for operational visibility
-- End-to-end AWS service integration built from the ground up
+Fully serverless, event-driven architecture with no persistent compute. Async processing workflows that decouple ingestion from downstream logic. HIPAA-aligned design considerations including encryption and least-privilege IAM. Structured CloudWatch monitoring for operational visibility, with end-to-end AWS service integration built from the ground up.
 
 > I created this project to force a shift in how I view projects. My interest has gone from managing work around systems to actually designing them.
 
@@ -70,7 +68,7 @@ A fully serverless, event-driven system on AWS Free Tier that automates document
 ## Skills & Focus Areas
 
 **AWS Services**
-`S3` `Lambda` `Textract` `SNS` `DynamoDB` `CloudWatch` `IAM` `KMS`
+`S3` `Lambda` `Textract` `SNS` `DynamoDB` `CloudWatch` `IAM`
 
 **Architecture & Technical Concepts**
 `Serverless Architecture` `Event-Driven Design` `Asynchronous Processing` `Cloud-Native Thinking` `Systems Thinking` `Observability` `HIPAA-Aligned Design` `Least Privilege Security`
