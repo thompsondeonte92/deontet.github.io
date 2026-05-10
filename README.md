@@ -1,3 +1,5 @@
+![banner](./banner.svg?refresh=1)
+
 <svg width="100%" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>GitHub Profile Banner</title>
   <desc>PMP Certified Project Professional and evolving cloud architect</desc>
