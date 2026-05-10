@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <div align="center">
-  <https://raw.githubusercontent.com/deontet1/deontet1.github.io/main/deonte_thompson_banner_final__1_.svg> 
+  <img src="https://raw.githubusercontent.com/deontet1/deontet1.github.io/main/deonte_thompson_banner_final__1_.svg" alt="Deonte Thompson GitHub Profile Banner" width="100%"/>
 </div>
 
 <br>
