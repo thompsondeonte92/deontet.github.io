@@ -8,11 +8,6 @@
 
 Welcome to my GitHub!  Follow my journey to building technical depth in cloud infrastructure and solutions architecture. Open to cloud engineering, technical PM, and implementation roles. I welcome any feedback and leads on cloud opportunities and can be via [LinkedIn](https://www.linkedin.com/in/deontet/)
 
-| **🔹 Delivery** | **☁️ Cloud Engineering** | **🔹 Leadership** |
-|:---:|:---:|:---:|
-| *Project & Program Management* | *AWS Architecture* | *Operational Design* |
-| PMP certified. Stakeholder alignment, risk management, and structured delivery across complex environments. | Serverless, event-driven systems. Hands-on deployed infrastructure built from the ground up. | Team leadership, process design, and cross-functional execution in complex organizations. |
-
 ## Most Recent Project
 
 ### ⬡ AWS Serverless Intake Automation Platform
