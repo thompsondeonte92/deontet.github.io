@@ -2,9 +2,8 @@
 
 <div align="center">
 
-<svg width="100%" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>Deonte Thompson GitHub Profile Banner</title>
-  <desc>PMP Certified Project Professional and evolving cloud architect</desc>
+<desc>PMP Certified Project Professional and evolving cloud architect</desc>
+
   <rect width="680" height="180" fill="#04090f"/>
   <line x1="0" y1="60" x2="680" y2="60" stroke="#00aaff" stroke-opacity="0.06" stroke-width="0.5"/>
   <line x1="0" y1="120" x2="680" y2="120" stroke="#00aaff" stroke-opacity="0.06" stroke-width="0.5"/>
