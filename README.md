@@ -4,28 +4,14 @@
   <img src="https://raw.githubusercontent.com/deontet1/deontet1.github.io/main/deonte_thompson_banner_final__1_.svg" alt="Deonte Thompson GitHub Profile Banner" width="100%"/>
 </div>
 
-<br>
-
 ## Project Professional. Cloud Architecture & Technical Delivery.
 
-I'm a PMP-certified delivery professional building technical depth in cloud infrastructure and solutions architecture. I combine operational leadership with hands-on AWS implementation, currently focused on serverless systems, event-driven architecture, and cloud-native design.
-
-I'm open to opportunities in cloud engineering, technical program management, and project management. If you have insight, opportunities, or advice to share, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/deontet/).
-
-<br>
-
-## What I Bring to the Table
-
-My background is in administration, leadership, and project management. I know how to lead operations, support teams, and align with key stakeholders while bringing clarity and structure to complex business environments.
-
-<br>
+Welcome to my GitHub!  Follow my journey to building technical depth in cloud infrastructure and solutions architecture. Open to cloud engineering, technical PM, and implementation roles. I welcome any feedback and leads on cloud opportunities and can be contacted at [LinkedIn](https://www.linkedin.com/in/deontet/)
 
 | **🔹 Delivery** | **☁️ Cloud Engineering** | **🔹 Leadership** |
 |:---:|:---:|:---:|
 | *Project & Program Management* | *AWS Architecture* | *Operational Design* |
 | PMP certified. Stakeholder alignment, risk management, and structured delivery across complex environments. | Serverless, event-driven systems. Hands-on deployed infrastructure built from the ground up. | Team leadership, process design, and cross-functional execution in complex organizations. |
-
-<br>
 
 ## Most Recent Project
 
