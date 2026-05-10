@@ -32,7 +32,7 @@ My background is in administration, leadership, and project management. I know h
 
 ### ⬡ AWS Serverless Intake Automation Platform
 
-[![Source Code]https://deontet1.github.io/aws-serverless-intake-automation/
+[![Source Code] https://deontet1.github.io/aws-serverless-intake-automation/
 
 A fully serverless, event-driven system on AWS Free Tier that automates document ingestion, OCR extraction, and system routing. Built to understand what solving high-volume document processing at the infrastructure level actually requires.
 
