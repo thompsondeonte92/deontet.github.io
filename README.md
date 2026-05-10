@@ -10,7 +10,7 @@
 
 Welcome to my GitHub! I'm a certified project manager and cloud and networking engineering student with a passion for solving problems and delivering practical solutions for teams and clients. As I transition into tech full time, I'm using this GitHub to document my hands-on work and my growth as a technical professional.
 
-I'm open to opportunities in cloud engineering, technical program management, and project management. If you have insight, opportunities, or advice feel free to reach out on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Deonte%20Thompson-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deontet/)
+I'm open to opportunities in cloud engineering, technical program management, and project management. If you have insight, opportunities, or advice to share, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/deontet/).
 
 <br>
 
