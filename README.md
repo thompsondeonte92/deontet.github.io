@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/deontet1/deontet1.github.io/main/deonte_thompson_banner_final__1_.svg" alt="Deonte Thompson GitHub Profile Banner" width="100%"/>
 </div>
 
-## Former patient registration coordinator turned cloud architect. I build the systems I once wished existed.
+## As a former administration leader and patient registration coordinator, I aspire to build the very systems I once wished existed.
 
 Welcome to my GitHub! Follow my journey to building technical depth in cloud infrastructure and solutions architecture. Open to cloud engineering, technical PM, and implementation roles. I welcome any feedback and leads on cloud opportunities and can be reached via [LinkedIn](https://www.linkedin.com/in/deontet/)
 
