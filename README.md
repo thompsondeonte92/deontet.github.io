@@ -48,16 +48,41 @@ Fully serverless, event-driven architecture with no persistent compute. Async pr
 ## Skills & Focus Areas
 
 **AWS Services**
-`S3` `Lambda` `Textract` `SNS` `DynamoDB` `CloudWatch` `IAM`
+
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon Textract](https://img.shields.io/badge/Amazon%20Textract-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Architecture & Technical Concepts**
-`Serverless Architecture` `Event-Driven Design` `Asynchronous Processing` `Cloud-Native Thinking` `Systems Thinking` `Observability` `HIPAA-Aligned Design` `Least Privilege Security`
+
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Event-Driven Design](https://img.shields.io/badge/Event--Driven%20Design-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Async Processing](https://img.shields.io/badge/Async%20Processing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud-Native](https://img.shields.io/badge/Cloud--Native-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HIPAA-Aligned Design](https://img.shields.io/badge/HIPAA--Aligned%20Design-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Least Privilege Security](https://img.shields.io/badge/Least%20Privilege%20Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Professional & Delivery Expertise**
-`PMP Certified` `Program Management` `Technical Delivery` `Stakeholder Communication` `Risk Management` `Operational Process Design`
+
+![PMP Certified](https://img.shields.io/badge/PMP%20Certified-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Program Management](https://img.shields.io/badge/Program%20Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Technical Delivery](https://img.shields.io/badge/Technical%20Delivery-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Risk Management](https://img.shields.io/badge/Risk%20Management-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Operational Process Design](https://img.shields.io/badge/Operational%20Process%20Design-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Growing Into**
-`Cloud TPM` `Solutions Architecture` `Implementation Consulting` `Technical Program Management` `Cloud Modernization`
+
+![Cloud TPM](https://img.shields.io/badge/Cloud%20TPM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Solutions Architecture](https://img.shields.io/badge/Solutions%20Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Implementation Consulting](https://img.shields.io/badge/Implementation%20Consulting-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Technical Program Management](https://img.shields.io/badge/Technical%20Program%20Management-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud Modernization](https://img.shields.io/badge/Cloud%20Modernization-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 <br>
 
