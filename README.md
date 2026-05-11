@@ -1,12 +1,11 @@
 <!-- GitHub Profile README -->
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/deontet1/deontet1.github.io/main/deonte_thompson_banner_final__1_.svg" alt="Deonte Thompson GitHub Profile Banner" width="100%"/>
 </div>
 
-## Project Professional. Cloud Architecture & Technical Delivery.
+## Former patient registration coordinator turned cloud architect. I build the systems I once wished existed.
 
-Welcome to my GitHub!  Follow my journey to building technical depth in cloud infrastructure and solutions architecture. Open to cloud engineering, technical PM, and implementation roles. I welcome any feedback and leads on cloud opportunities and can be via [LinkedIn](https://www.linkedin.com/in/deontet/)
+Welcome to my GitHub! Follow my journey to building technical depth in cloud infrastructure and solutions architecture. Open to cloud engineering, technical PM, and implementation roles. I welcome any feedback and leads on cloud opportunities and can be reached via [LinkedIn](https://www.linkedin.com/in/deontet/)
 
 ## Most Recent Project
 
@@ -16,7 +15,9 @@ Welcome to my GitHub!  Follow my journey to building technical depth in cloud in
   <img src="https://img.shields.io/badge/View My Project%20Page-View%20Writeup-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="View Project Page"/>
 </a>
 
-A fully serverless, event-driven system on AWS Free Tier that automates document ingestion, OCR extraction, and downstream routing. Built to understand what solving high-volume document processing at the infrastructure level actually requires.
+> I created this project to force a shift in how I view projects. My interest has gone from managing work around systems to actually designing them.
+
+A home health startup was drowning in endless records and intake documentation with no scalable path forward. I designed this serverless pipeline on AWS as a baseline vision for replacing manual intake with an event-driven architecture projected to reduce document processing time by 70 percent and intake cycle time by 60 percent.
 
 **Architecture Overview**
 
@@ -41,8 +42,6 @@ Nothing in this pipeline polls or waits. Every component reacts to an event: S3 
 **What This Project Demonstrates**
 
 Fully serverless, event-driven architecture with no persistent compute. Async processing workflows that decouple ingestion from downstream logic. HIPAA-aligned design considerations including encryption and least-privilege IAM. Structured CloudWatch monitoring for operational visibility, with end-to-end AWS service integration built from the ground up.
-
-> I created this project to force a shift in how I view projects. My interest has gone from managing work around systems to actually designing them.
 
 <br>
 
